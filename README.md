@@ -12,3 +12,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 ---
+
+## 🎯 Current Focus
+📌 Exploring **LLMs, MLOps, and Data Infrastructure**  
+📌 Building **high-performance AI models for real-world applications**  
+📌 Teaching and mentoring in **Data Science & AI Engineering**
+
+---
+
+## 🌟 Fun Fact
+💡 I love automating workflows, optimizing ML models, and discussing AI ethics!
+
+---
