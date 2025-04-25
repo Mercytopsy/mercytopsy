@@ -20,10 +20,6 @@
 
 ---
 
-## 🌟 Fun Fact
-💡 I love automating workflows, optimizing ML models, and discussing AI ethics!
-
----
 
 ## 📢 Let's Collaborate!
 📩 Reach out for **AI projects, consulting, and mentorship.**  
