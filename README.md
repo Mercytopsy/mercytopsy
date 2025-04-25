@@ -1,5 +1,3 @@
-# Hi there, I'm Odunayo Babatope 👋
-
 🚀 **Data Scientist | AI Engineer**  
 
 🔬 Passionate about **Machine Learning, LLMs, NLP, and AI in Healthcare**  
