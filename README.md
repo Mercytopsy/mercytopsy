@@ -3,7 +3,7 @@
 🚀 **Data Scientist | AI Engineer**  
 
 🔬 Passionate about **Machine Learning, LLMs, NLP, and AI in Healthcare**  
-📊 Building **high-performance AI models for real-world applications**
+📊 Building **high-performance AI models for real-world applications**  
 🎯 Focused on **MLOps, Data Engineering, and AI Optimization**  
 👨‍🏫 Teaching and mentoring in **Data Science & AI Engineering**
 
