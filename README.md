@@ -1,9 +1,8 @@
 🚀 **Data Scientist | AI Engineer**  
 
 🔬 Passionate about **Machine Learning, LLMs, NLP, and AI in Healthcare**  
-📊 Building **high-performance AI models for real-world applications**  
-🎯 Focused on **MLOps, Data Engineering, and AI Optimization**  
-👨‍🏫 Teaching and mentoring in **Data Science & AI Engineering**
+📊 Building **high-performance AI models for real-world applications**    
+👨‍🏫 Teaching and mentoring in **AI Engineering**
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odunayo-mercy-babatope-a71762154/)
